@@ -1,2 +1,6 @@
 # hello-world
-This is a short description
+
+Hi Humans!
+
+Hubot here. I like stuff.
+I like other stuff.
